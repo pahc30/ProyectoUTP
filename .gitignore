@@ -1,0 +1,20 @@
+
+# Build/Java
+*.class
+*.log
+/target/
+/build/
+/dist/
+/out/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
